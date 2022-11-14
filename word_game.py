@@ -1,3 +1,5 @@
+
+
 sentence = "Just as I arrived at Place, I realized I had forgotten my Object."
 
 place = input("Tell me a place.")
