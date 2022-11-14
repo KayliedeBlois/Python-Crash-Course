@@ -16,15 +16,15 @@ NAME
 """
 
 replacements = [
-  ["An occupation", "OCCUPATION"],
-  ["A country", "COUNTRY"],
-  ["A plural noun", "PLURAL_NOUN"],
-  ["A verb", "VERB"],
-  ["An adjective", "ADJECTIVE"],
-  ["A title that someone might have in an organization", "TITLE"],
-  ["A personal item", "PERSONAL_ITEM"],
-  ["A holiday", "HOLIDAY"],
-  ["Your name", "NAME"]
+  ["An occupation: ", "OCCUPATION"],
+  ["A country: ", "COUNTRY"],
+  ["A plural noun: ", "PLURAL_NOUN"],
+  ["A verb: ", "VERB"],
+  ["An adjective: ", "ADJECTIVE"],
+  ["A title that someone might have in an organization: ", "TITLE"],
+  ["A personal item: ", "PERSONAL_ITEM"],
+  ["A holiday: ", "HOLIDAY"],
+  ["Your name: ", "NAME"]
 ]
 
 for prompt, placeholder in replacements:
