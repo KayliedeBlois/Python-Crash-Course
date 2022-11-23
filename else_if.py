@@ -6,4 +6,4 @@ if age > 18:
 elif age > 12:
   print("Maybe. How tall are you?")
 else:
-  print("SOrry, kid. Come back when you're older")
+  print("Sorry, kid. Come back when you're older")
